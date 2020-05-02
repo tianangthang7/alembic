@@ -110,15 +110,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: alembic/
+  url: 
 - title: Elements
-  url: alembic/elements/
+  url: elements/
 - title: Blog
-  url: alembic/blog/
+  url: blog/
 - title: Categories
-  url: alembic/categories/
+  url: categories/
 - title: Search
-  url: alembic/search/
+  url: search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
